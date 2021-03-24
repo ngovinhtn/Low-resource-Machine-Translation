@@ -3,7 +3,7 @@ The data is collected from TED talks. More detailed information about the data, 
 
 ## Datasets 
 
-### 1. English - Vietnamese  
+### 1. English-Vietnamese  
 | Dataset       | Sentences | 
 | ------------- | --------- | 
 | Training Data | 230979 |
@@ -11,7 +11,7 @@ The data is collected from TED talks. More detailed information about the data, 
 | Test (tst2013)        | 1268 |
 
 
-### 2. French - Vietnamese 
+### 2. French-Vietnamese 
 | Dataset       | Sentences | 
 | ------------- | --------- | 
 | Training Data | 203351 |
@@ -20,7 +20,7 @@ The data is collected from TED talks. More detailed information about the data, 
 
 
 ## Performance 
-The results of our MT systems are measured in BLEU. We evaluate the best model for the baseline systems and the average scores on the five best models for the multilingual and pseudo systems. The more details, please see our paper https://www.aclweb.org/anthology/2020.loresmt-1.8.pdf
+The results of our MT systems are measured in BLEU. We evaluate the best model for the baseline systems and the average scores on the five best models for the multilingual and pseudo systems. More details, please see our paper https://www.aclweb.org/anthology/2020.loresmt-1.8.pdf
 
 ### 1. English to Vietnamese 
 | Models     | dev | tst |
