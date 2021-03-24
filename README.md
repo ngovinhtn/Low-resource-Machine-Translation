@@ -23,7 +23,7 @@ The results of our MT systems are measured in BLEU. We evaluate the best model f
 | Models     | dev | tst |
 | -----------| -----| ----------------- |
 | Bilingual Baseline|  31.74 | 35.13 |
-| Multilingual  | 31.66 (-0.08) |  |36.18 (+1.05) |
+| Multilingual  | 31.66 (-0.08) |  36.18 (+1.05) |
 | Multilingual + fine-tuning |31.88 (+0.14)| 36.56 (+1.43)|
 |Multilingual + fine-tuning with similarity | 31.93 (+0.19) | 36.75 (+1.62)|
 |Multilingual + fine-tuning with updated embedding | **32.11 (+0.37)**| **36.74 (+1.61)**|
@@ -38,7 +38,7 @@ The results of our MT systems are measured in BLEU. We evaluate the best model f
 | Multilingual + fine-tuning |24.51 (+1.44)  | 24.86 (+1.83)|
 |Multilingual + fine-tuning with similarity | 24.37 (+1.30) | 24.70 (+1.63)|
 |Multilingual + fine-tuning with updated embedding | 24.60 (+1.53)  | 24.96 (+1.93)|
-|Multilingual + mixing pseudo bilingual data | **25.59 (+2.52)**} | **25.57 (+2.54)**|
+|Multilingual + mixing pseudo bilingual data | **25.59 (+2.52)** | **25.57 (+2.54)**|
 |Pseudo bilingual data translation | 19.00 | 18.71 |
 
 
