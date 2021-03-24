@@ -1,6 +1,8 @@
 # English - Vietnamese, French - Vietnamese bilingual corpus for Neural Machine Translation
 The data is collected from TED talks. More detailed information about the data, please go to https://github.com/ngovinhtn/LowresMT/Datasets
+
 ##Datasets 
+
 ### 1. English - Vietnamese  
 | Dataset       | Sentences | 
 | ------------- | --------- | 
@@ -19,6 +21,7 @@ The data is collected from TED talks. More detailed information about the data, 
 
 ## Performance 
 The results of our MT systems are measured in BLEU. We evaluate the best model for the baseline systems and the average scores on the five best models for the multilingual and pseudo systems. The more details, please see our paper https://www.aclweb.org/anthology/2020.loresmt-1.8.pdf
+
 ### 1. English to Vietnamese 
 | Models     | dev | tst |
 | -----------| -----| ----------------- |
