@@ -6,7 +6,7 @@ The data is collected from TED talks. More detailed information about the data, 
 ### 1. English-Vietnamese  
 | Dataset       | Sentences | 
 | ------------- | --------- | 
-| Training Data | 230979 |
+| Training Data | 231004 |
 | Development (tst2012)  | 1553 |
 | Test (tst2013)        | 1268 |
 
