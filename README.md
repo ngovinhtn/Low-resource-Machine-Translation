@@ -105,7 +105,7 @@ Bibtex:
     pages = "55--61",
 }
 ```
-and Thi-Vinh Ngo, Phuong-Thai Nguyen, Van Vinh Nguyen, Thanh-Le Ha, Le-Minh Nguyen: [An Efficient Method for Generating Synthetic Data for Low-Resource Machine Translation: An empirical study of Chinese, Japanese to Vietnamese Neural Machine Translation](https://doi.org/10.1080/08839514.2022.2101755). An International Journal: Applied Artificial Intelligence.
+and Thi-Vinh Ngo, Phuong-Thai Nguyen, Van Vinh Nguyen, Thanh-Le Ha, Le-Minh Nguyen: [An Efficient Method for Generating Synthetic Data for Low-Resource Machine Translation: An empirical study of Chinese, Japanese to Vietnamese Neural Machine Translation](https://doi.org/10.1080/08839514.2022.2101755). An International Journal: Applied Artificial Intelligence, Taylor & Francis.
 
 Bibtex:
 ```
