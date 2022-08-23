@@ -2,7 +2,7 @@
 The data is collected from TED talks. More detailed information about the data, please go to https://github.com/ngovinhtn/LowresMT/Datasets
 
 ## **License and copyright notices**
- These datasets are followed policies of TED Talks (at https://www.ted.com/). They are **only used for research purposes and non-commercial**.
+ These datasets are followed policies of TED Talks (at https://www.ted.com/). They are **only used for research purposes and do not allow for any commercial usage**.
 
 ## Datasets 
 
