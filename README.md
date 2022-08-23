@@ -1,7 +1,6 @@
 # English - Vietnamese, French - Vietnamese, Chinese - Vietnamese and Japanese - Vietnamese bilingual corpus for Neural Machine Translation
 The data is collected from TED talks. More detailed information about the data, please go to https://github.com/ngovinhtn/LowresMT/Datasets
-
-# License and copyright notices: These datasets are followed policies of TED Talks (at https://www.ted.com/). They are only used for research purposes and non-commercial.
+**License and copyright notices**: These datasets are followed policies of TED Talks (at https://www.ted.com/). They are **only used for research purposes and non-commercial**.
 
 ## Datasets 
 
@@ -79,7 +78,7 @@ The results of our MT systems are measured in BLEU. We evaluate the best model f
 | Combined training (ja-kytea) + ATUs data augmentation | 16.8(+1.9)| 17.9(+2.0) |
 | Combined training (ja-spacy) + ATUs data augmentation | 17.1 (+2.2)  | 18.6 (+2.7)|
 | Combined training (ja-mecab) +ATUs data augmentation | 16.8 (+1.9)  | 18.5(+2.6)|
-| Pre-trained BERT  (ja-spacy) +  Combined training +  ATUs data augmentation ($ths = 7$) + after epoch 70 | **23.3 (+8.4)** | **23.7 (+7.8)**|
+| Pre-trained BERT  (ja-spacy) +  Combined training +  ATUs data augmentation (ths = 7) + after 70 epochs | **23.3 (+8.4)** | **23.7 (+7.8)**|
 
 
 
